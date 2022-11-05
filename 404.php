@@ -26,4 +26,4 @@ get_header();
 <?php
 get_footer();
 
-echo "this file has been changed";
+
