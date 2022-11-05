@@ -13,6 +13,7 @@
  */
 
 get_header();
+echo "hello world";
 ?>
 <section class="hub-blog">
 	<div class="container">
