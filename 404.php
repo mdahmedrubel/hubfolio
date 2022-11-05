@@ -25,3 +25,5 @@ get_header();
 </div>
 <?php
 get_footer();
+
+echo "this file has been changed";
